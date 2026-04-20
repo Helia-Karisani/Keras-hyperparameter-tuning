@@ -1,0 +1,11 @@
+# Keras Tuner output
+my_dir/
+
+# Saved model/checkpoint files
+*.h5
+*.keras
+*.weights.h5
+
+# Jupyter/Python cache
+.ipynb_checkpoints/
+__pycache__/

@@ -1,7 +1,6 @@
 
 # Keras Hyperparameter Tuning on MNIST
 
-import libraries
 
 ## Overview
 
